@@ -1,2 +1,4 @@
-package server.instance;public class Server {
+package server.instance;
+
+public class Server {
 }
